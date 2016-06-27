@@ -1,0 +1,14 @@
+layout_spectrum: 0.3160829530097544
+typography_spectrum: 0.9640705548226833
+color:
+  brandStrength: 0.1888562892563641
+  lightness: 0.10043817269615829
+  saturation: 0.8652630031574517
+  rhythmicContrast: 0.47852308908477426
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Growtrends
